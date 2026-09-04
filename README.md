@@ -33,3 +33,6 @@ IoT Architecture • Sensors • Embedded Systems • Communication • Cloud In
 IoT Systems & Architecture | Embedded Systems | Sensor Technologies |
 Device-to-Device Communication | MQTT & CoAP | IoT Networking |
 Edge Computing | Cloud Integration | Real-Time Data Acquisition | IoT Security
+
+### 📜 Certification
+[🎓 View IoT Course Certificate](./certificates/IoT_Certificate.pdf)
