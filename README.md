@@ -5,16 +5,27 @@ IoT Architecture • Sensors • Embedded Systems • Communication • Cloud In
 ## Technical Skills & Concepts
 
 •**IoT Architecture** 
+
 • **Sensors & Actuators** 
+
 • **Embedded Systems** 
+
 •**Microcontrollers** 
+
 • **IoT Communication Protocols** 
+
 • **MQTT & CoAP** 
+
 •**Wireless Sensor Networks**
+
 • **Device Connectivity** 
+
 • **Edge & Cloud Integration** 
+
 •**Data Acquisition**
+
 • **Real-Time Monitoring** 
+
 • **IoT Security**
 
 ## Key Technical Interests
