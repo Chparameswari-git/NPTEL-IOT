@@ -7,7 +7,7 @@ IoT Architecture • Sensors • Embedded Systems • Communication • Cloud In
 
 •**IoT Architecture** 
 
-• **Sensors & Actuators** 
+• **Sensors & Actuators**
 
 • **Embedded Systems** 
 
@@ -35,4 +35,5 @@ Device-to-Device Communication | MQTT & CoAP | IoT Networking |
 Edge Computing | Cloud Integration | Real-Time Data Acquisition | IoT Security
 
 ### 📜 Certification
-[📜 View NPTEL-IOT Certificate](./certificates/NPTEL-IOT.pdf)
+[
+d[View Certificate](./NPTEL-IOT.pdf)
