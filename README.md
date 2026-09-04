@@ -35,4 +35,4 @@ Device-to-Device Communication | MQTT & CoAP | IoT Networking |
 Edge Computing | Cloud Integration | Real-Time Data Acquisition | IoT Security
 
 ### 📜 Certification
-[🎓 View IoT Course Certificate](./certificates/IoT_Certificate.pdf)
+[📜 View NPTEL-IOT Certificate](./certificates/NPTEL-IOT.pdf)
